@@ -1,0 +1,14 @@
+C:\Users\keak9\Desktop\projecteuler\bin\Debug\net7.0\projecteuler.exe
+C:\Users\keak9\Desktop\projecteuler\bin\Debug\net7.0\projecteuler.deps.json
+C:\Users\keak9\Desktop\projecteuler\bin\Debug\net7.0\projecteuler.runtimeconfig.json
+C:\Users\keak9\Desktop\projecteuler\bin\Debug\net7.0\projecteuler.dll
+C:\Users\keak9\Desktop\projecteuler\bin\Debug\net7.0\projecteuler.pdb
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.AssemblyInfoInputs.cache
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.AssemblyInfo.cs
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.csproj.CoreCompileInputs.cache
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.dll
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\refint\projecteuler.dll
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.pdb
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\projecteuler.genruntimeconfig.cache
+C:\Users\keak9\Desktop\projecteuler\obj\Debug\net7.0\ref\projecteuler.dll

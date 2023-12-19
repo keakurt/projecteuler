@@ -16,4 +16,5 @@ using projecteuler;
 //Console.WriteLine(Problem10.Solution(2000000));
 //Console.WriteLine(Problem11.Solution());
 //Console.WriteLine(Problem12.Solution(500));
-Console.WriteLine(Problem13.Solution());
+//Console.WriteLine(Problem13.Solution());
+//Console.WriteLine(Problem14.Solution(1000000));

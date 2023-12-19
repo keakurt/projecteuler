@@ -10,8 +10,5 @@ using projecteuler;
 //Console.WriteLine(Problem5.Solution(1,20));
 //Console.WriteLine(Problem6.Solution(100000));
 //Console.WriteLine(Problem7.Solution(10001));
-Console.WriteLine(Problem8.Solution());
-
-
-//IEnumerable<string> arry = new StringBuilder(number).ToString().Split('0').Select(i => i.Length < 13 ? "" : i.Substring(0, 13)).Where(s => !string.IsNullOrWhiteSpace(s));
-//StringBuilder s1 = new StringBuilder(number, 13,);
+//Console.WriteLine(Problem8.Solution());
+Console.WriteLine(Problem9.Solution());

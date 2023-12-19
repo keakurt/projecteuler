@@ -1,5 +1,6 @@
 using System.Numerics;
 using System.Text;
+using System.Text.RegularExpressions;
 using projecteuler;
 
 
@@ -13,4 +14,5 @@ using projecteuler;
 //Console.WriteLine(Problem8.Solution());
 //Console.WriteLine(Problem9.Solution());
 //Console.WriteLine(Problem10.Solution(2000000));
-Console.WriteLine(Problem11.Solution());
+//Console.WriteLine(Problem11.Solution());
+Console.WriteLine(Problem12.Solution(500));

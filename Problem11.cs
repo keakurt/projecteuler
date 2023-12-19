@@ -12,7 +12,7 @@ namespace projecteuler
         /// The product of these numbers is 26 x 63 x  78 x 14 = 1788696.
         /// What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the  20x20 grid?
         /// </summary>
-        /// <returns>Largest Product in a Grid/returns>
+        /// <returns>Largest Product in a Grid</returns>
         public static int Solution()
         {
             return GreatestProduct();

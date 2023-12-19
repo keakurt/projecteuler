@@ -13,7 +13,7 @@ namespace projecteuler
         /// Find the sum of all the primes below input.
         /// </summary>
         /// <param name="limit"> </param>
-        /// <returns>Summation of Primes/returns>
+        /// <returns>Summation of Primes</returns>
         public static string Solution(int limit)
         {
             // We will use the Sieve of Eratosthenes algorithm for the solution. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes

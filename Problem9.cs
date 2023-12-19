@@ -13,7 +13,7 @@ namespace projecteuler
         /// There exists exactly one Pythagorean triplet for which a + b + c =.1000,
         /// Find the product abc.
         /// </summary>
-        /// <returns>Special Pythagorean Triplet/returns>
+        /// <returns>Special Pythagorean Triplet</returns>
         public static int Solution()
         {
             /*
